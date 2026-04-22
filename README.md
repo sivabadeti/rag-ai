@@ -90,13 +90,19 @@ git clone https://github.com/sivabadeti/rag-ai.git
 cd rag-ai
 
 2. Backend
+   
    cd rag-backend
+   
    pip install fastapi uvicorn chromadb
+   
    uvicorn main:app --reload
    
 3.Frontend
+
   cd rag-frontend/react
+  
   npm install
+  
   npm run dev
 
 
