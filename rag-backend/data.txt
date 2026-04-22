@@ -1,0 +1,59 @@
+Python is a high-level programming language widely used in artificial intelligence, machine learning, and data science. It is known for its simplicity and readability.
+
+Machine learning is a subset of artificial intelligence that enables systems to learn from data and improve their performance without explicit programming.
+
+Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think and make decisions.
+
+Deep learning is a specialized area of machine learning that uses neural networks with many layers to analyze complex patterns.
+
+React is a JavaScript library used for building user interfaces, especially single-page applications. It allows developers to create reusable UI components.
+
+Node.js is a runtime environment that allows JavaScript to run on the server side, enabling backend development using JavaScript.
+
+JavaScript is a versatile programming language used for web development, allowing dynamic and interactive web pages.
+
+FastAPI is a modern Python web framework used to build APIs quickly and efficiently with high performance.
+
+MongoDB is a NoSQL database that stores data in flexible, JSON-like documents and is commonly used in modern web applications.
+
+SQL is a language used to communicate with relational databases and perform operations such as querying, updating, and managing data.
+
+Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract insights from structured and unstructured data.
+
+Natural language processing is a field of AI that focuses on the interaction between computers and human language.
+
+Computer vision is a field of AI that enables machines to interpret and understand visual information from the world.
+
+Git is a version control system used to track changes in source code during software development.
+
+GitHub is a platform for hosting and collaborating on code repositories using Git.
+
+REST APIs allow communication between client and server using HTTP methods such as GET, POST, PUT, and DELETE.
+
+Cloud computing provides on-demand computing resources such as servers, storage, and applications over the internet.
+
+Docker is a containerization platform that allows applications to run consistently across different environments.
+
+Microservices architecture is a design approach where applications are built as a collection of small, independent services.
+
+DevOps is a set of practices that combines software development and IT operations to improve collaboration and productivity.
+
+Neural networks are computational models inspired by the human brain, used in machine learning and deep learning.
+
+Supervised learning is a type of machine learning where models are trained on labeled data.
+
+Unsupervised learning is a type of machine learning where models find patterns in unlabeled data.
+
+Reinforcement learning is a type of machine learning where agents learn by interacting with an environment and receiving rewards.
+
+Frontend development focuses on building the user interface and user experience of web applications.
+
+Backend development focuses on server-side logic, databases, and application functionality.
+
+Full-stack development involves working on both frontend and backend parts of an application.
+
+API stands for Application Programming Interface and allows different software systems to communicate with each other.
+
+Cybersecurity involves protecting systems, networks, and data from digital attacks.
+
+Big data refers to large and complex datasets that require advanced tools and techniques for processing and analysis.
