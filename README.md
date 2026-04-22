@@ -111,13 +111,16 @@ cd rag-ai
   This allows the system to demonstrate real-world retrieval workflows while remaining lightweight and easy to run locally.
 
 ## 📸 Demo
-
+# Home
 ![Home](assets/home.png)
 
+# Chatbox
 ![Chat](assets/chatbox.png)
 
+# About
 ![About](assets/about.png)
 
+# Output
 ![Output](assets/qans.png)
 
 ## 👨‍💻 Author
