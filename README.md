@@ -107,11 +107,16 @@ cd rag-ai
 
 
 ⚠️ Note on Endee / Vector Databases
+
    This project is based on the concept of vector databases used in modern RAG systems (such as Endee).
 
-  Due to environment and access limitations, ChromaDB is used as a local vector database to implement the same core principles:
-  - storing embeddings  
-  - performing similarity search  
+  Due to environment and access limitations, ChromaDB is used as a local vector database to implement the same core 
+principles:
+
+  - storing embeddings
+    
+  - performing similarity search
+    
   - retrieving relevant context  
   
   This allows the system to demonstrate real-world retrieval workflows while remaining lightweight and easy to run locally.
